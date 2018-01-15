@@ -221,3 +221,4 @@ Testrig
 Twilio/project.lock.json
 testrunner/
 html/
+/.vs/Twilio/v15/Server/sqlite3
